@@ -22,18 +22,17 @@
 
 # 2. MARCO TEÓRICO 
 
-2.1 Capítulo 15: Circuitos RC
+![image](https://user-images.githubusercontent.com/116777118/221721465-7f79f473-3945-4f3f-abbd-6e2eb7952a2b.png)
 
-![image](https://user-images.githubusercontent.com/116777118/221441255-42d3eb9f-4d99-4261-93aa-07d04fff8f0f.png)
+![image](https://user-images.githubusercontent.com/116777118/221722672-e923d7be-4517-4b75-9ee5-99333c31c23f.png)
 
-![image](https://user-images.githubusercontent.com/116777118/221441407-433609d9-081b-4a5c-af85-12298232abb6.png)
+![image](https://user-images.githubusercontent.com/116777118/221723561-d381e6ba-e0c1-49b7-84bc-e1bc2d7b2435.png)
 
-![image](https://user-images.githubusercontent.com/116777118/221441543-1c080a6c-0aab-4a89-8007-df18b4726fde.png)
+![image](https://user-images.githubusercontent.com/116777118/221726221-2ea99aef-65ab-465c-8baa-697ec5c2532b.png)
 
+![image](https://user-images.githubusercontent.com/116777118/221727664-37b76430-5418-4fcd-a475-77515204d259.png)
 
-
-
-
+![image](https://user-images.githubusercontent.com/116777118/221728464-68368320-69d0-401b-b36d-3227a228fc91.png)
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 ## PROBLEMAS Unidad 15: Ejercicios pares ##
