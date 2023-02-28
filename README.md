@@ -22,7 +22,7 @@
 
 # 2. MARCO TEÓRICO 
 
-![image](https://user-images.githubusercontent.com/116777118/221721465-7f79f473-3945-4f3f-abbd-6e2eb7952a2b.png)
+![image](https://user-images.githubusercontent.com/116777118/221728764-e7b55834-d3a7-4e5a-b128-4b038893dd7b.png)
 
 ![image](https://user-images.githubusercontent.com/116777118/221722672-e923d7be-4517-4b75-9ee5-99333c31c23f.png)
 
